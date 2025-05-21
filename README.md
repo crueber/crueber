@@ -24,13 +24,11 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 ---
 
-### 🌱 Fun facts: 🎸🎲🐍
+### 🎸🎲🐍 Fun facts: 
 
 - Advocate for privacy-friendly and decentralized systems—believing in an open, user-empowered web.
-- Started professional programming in Java, spending nearly a decade in the ecosystem.
-- Applications I’ve built are green field projects for the network and web.
-- Always looking for new challenges and ways to grow—- or just a good jam session or game night.
 - Long term board member and lay enthusiast person of the Minnesota Herpetological Society.
+- Always looking for new challenges and ways to grow—- or just a good jam session or game night.
 
 ---
 
