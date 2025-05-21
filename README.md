@@ -6,11 +6,11 @@ Welcome to my GitHub! I’m a leader of softer engineering (currently a Director
 
 ### 🚀 Tech Specialties
 
-- **Favorite Languages:** Node.js, JavaScript, Go
-- **Other Languages:** Ruby, Java, C, PHP, and more
-- **Favorite Databases:** Postgres, Supabase, Pocketbase, KV, Flatfiles
-- **Web Development:** Scalable. and user-focused; Svelte(Kit), HTMX, Server Rendered, React/NextJS
-- **AI:** Evolving! Anthropic and OpenAI are my go-to presently.
+- **Favorite Languages:** Node.js, JavaScript, Go.
+- **Other Languages:** Ruby, Elixir, Crystal, PHP, Java, and more.
+- **Favorite Databases:** Postgres, Supabase, Pocketbase, KV, Flatfiles.
+- **Web Development:** Scalable. and user-focused; Server Rendered > HTMX > Svelte(Kit) > React/NextJS, as appropriate.
+- **AI Pair Programmers:** Evolving! Anthropic and OpenAI are my go-to presently.
 
 ---
 
