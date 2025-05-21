@@ -24,7 +24,7 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 ---
 
-### 🎸🎲🐍 Fun facts: 
+### 🎸🎲🐍  Fun facts: 
 
 - Advocate for privacy-friendly and decentralized systems—believing in an open, user-empowered web.
 - Long term board member and lay enthusiast person of the Minnesota Herpetological Society.
