@@ -1,6 +1,6 @@
-## 👨‍💻 Technology Leader | Technologist | Musician | Gamer
+## 👨‍💻 Technology Leader | Crypto and Security Advocate | Musician | Gamer
 
-Welcome to my GitHub! I’m a leader of softer engineering (currently a Director of Engineering) with deep roots in software engineering and web development. My journey began at age nine—tinkering with GW-BASIC and Turbo Pascal—and has grown into a passion for building robust, networked applications used by people around the world.
+Welcome to my GitHub! I’m a leader of software engineering with deep roots in software engineering and web development. My journey began at age nine—tinkering with GW-BASIC and Turbo Pascal—and has grown into a passion for building robust, networked applications used by people around the world.
 
 ---
 
