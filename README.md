@@ -1,4 +1,4 @@
-## 👨‍💻 Technology Leadership | 🌎 Remote Work, ₿ Crypto and 🔒 Security Advocate
+## 👨‍💻 Technology Leadership |  🌎 Remote Work, ₿ Crypto and 🔒 Security Advocate
 
 Welcome to my GitHub! I manage software engineering projects, and I have deep roots in diving in to software engineering and web development. My journey began at age nine—tinkering with GW-BASIC and Turbo Pascal—and has grown into a passion for building robust, networked applications used by people around the world.
 
