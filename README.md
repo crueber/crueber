@@ -30,6 +30,7 @@ Welcome to my GitHub! I’m a leader of softer engineering (currently a Director
 - Started professional programming in Java, spending nearly a decade in the ecosystem.
 - Applications I’ve built are green field projects for the network and web.
 - Always looking for new challenges and ways to grow—- or just a good jam session or game night.
+- Long term board member and lay enthusiast person of the Minnesota Herpetological Society.
 
 ---
 
