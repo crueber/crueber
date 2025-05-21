@@ -9,7 +9,7 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 - **Favorite Languages:** Node.js, JavaScript, Go.
 - **Other Languages:** Ruby, Elixir, Crystal, PHP, Java, and more.
 - **Favorite Databases:** Postgres, Supabase, Pocketbase, KV, Flatfiles.
-- **Web Development:** Scalable. and user-focused; Server Rendered > HTMX > Svelte(Kit) > React/NextJS, as appropriate.
+- **Web Development:** Scalable and user-focused; Server Rendered > HTMX > Svelte(Kit) > React/NextJS, as appropriate.
 - **AI Pair Programmers:** Evolving! Anthropic and OpenAI are my go-to presently.
 
 ---
