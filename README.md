@@ -1,6 +1,6 @@
-## 👨‍💻 Technology Leader | Crypto and Security Advocate | Musician | Gamer
+## 👨‍💻 Technology Leadership | 🔒 Crypto and Security Advocate
 
-Welcome to my GitHub! I’m a leader of software engineering with deep roots in software engineering and web development. My journey began at age nine—tinkering with GW-BASIC and Turbo Pascal—and has grown into a passion for building robust, networked applications used by people around the world.
+Welcome to my GitHub! I manage software engineering projects, and I have deep roots in diving in to software engineering and web development. My journey began at age nine—tinkering with GW-BASIC and Turbo Pascal—and has grown into a passion for building robust, networked applications used by people around the world.
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a leader of software engineering with deep roots in 
 
 ---
 
-### 🌱 Fun facts
+### 🌱 Fun facts: 🎸🎲🐍
 
 - Advocate for privacy-friendly and decentralized systems—believing in an open, user-empowered web.
 - Started professional programming in Java, spending nearly a decade in the ecosystem.
