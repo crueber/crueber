@@ -6,20 +6,19 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 ### 🚀 Tech Specialties
 
-- **Favorite Languages:** Node.js, JavaScript, Go.
-- **Other Languages:** Ruby, Elixir, Crystal, PHP, Java, and more.
-- **Favorite Databases:** Postgres, Supabase, Pocketbase, KV, Flatfiles.
-- **Web Development:** Scalable and user-focused; Server Rendered > HTMX > Svelte(Kit) > React/NextJS, as appropriate.
-- **AI Pair Programmers:** Evolving! Anthropic and OpenAI are my go-to presently.
+- **Favorite Languages:** Node/JavaScript, Go, Python, Ruby. In that order.
+- **Other Language Interests:** Elixir, PHP. Java only if strictly necessary.
+- **Favorite Databases:** Supabase, Sqlite, Pocketbase, Postgres. KV, Flatfiles.
+- **Web Development:** Scalable but maintainable and user-focused; Bias towards simplicity; Server Rendered > HTMX > Svelte(Kit) > React/NextJS, as appropriate.
+- **AI Pair Programmers:** Evolving! Qwen3 Coder and Claude Code. Open Code.
 
 ---
 
 ### ⚡️ More About Me
 
-- **Crypto and Decentralization Enthusiast:** I follow Ethereum, Solana, and other blockchain projects, along with focusing on security and privacy conscious software.
+- **Crypto and Decentralization Enthusiast:** I follow Ethereum, Solana, and other blockchain projects, along with focusing on privacy conscious software.
 - **Radio Operator:** Licensed as N0ZSY (Novice at 8, General Class at 21), with a special interest in lower band operation and Parks on the Air.
 - **Musician:** Singer and multi-instrumentalist (guitar, mandolin, bodhran), performing folk and indie music at local festivals for nearly a decade.
-- **Gamer:** Tabletop RPGs (D&D type, with 3D-printed minis, or via virtual table tops), board games, and video games.
 - **Based in:** Minnesota, USA
 
 ---
@@ -28,7 +27,6 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 - Advocate for privacy-friendly and decentralized systems—believing in an open, user-empowered web.
 - Long term board member and lay enthusiast person of the Minnesota Herpetological Society.
-- Always looking for new challenges and ways to grow—- or just a good jam session or game night.
 
 ---
 
