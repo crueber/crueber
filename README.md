@@ -10,7 +10,7 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 - **Other Language Thoughts:** Elixir and Lua are interesting. Java is not an appropriate modern choice for developing anything other than Android apps.
 - **Favorite Databases:** SQLite as default. Pocketbase for simple, realtime. Supabase or Postgres for full stack. KeyValue and Flatfiles where it makes sense.
 - **Web Development:** Scalable, maintainable, and user-focused; Bias towards simplicity; Server Rendered > HTMX > SolidJS > Svelte(Kit) > React. Apply complexity only as necessary.
-- **AI Pair Programmers:** Evolving! Gemini 3 Flash, Claude Code, and Qwen3 Coder (via LM Studio).
+- **AI Pair Programmers:** Evolving! Gemini 3 Flash, Claude Code, and Nemotron 3 Nano (via LM Studio).
 
 ---
 
