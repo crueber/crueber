@@ -6,8 +6,8 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 ### 🚀 Tech Hot Takes
 
-- Go and Bun(/Deno/node..maybe) are the best modern programming languages. I'll work with Ruby or Python as needed. Lots of other interesting languages out there.
-- /Java/ should have been sunset a long, long time ago.
+- Go and Bun/Deno/node are the best modern programming languages. I'll work with Ruby or Python as needed. Lots of other interesting languages out there.
+- Java should have been sunset a long, long time ago. Consider this my plea for you to stop using it.
 - SQLite is the best database for most projects. Pocketbase is great for simple, realtime. If you really, **really** need a full power database, Supabase or Postgres. KeyValue and Flatfiles for super simple usecases.
 - Always, always bias towards modularity and simplicity. That'll keep things scalable, maintainable, and user-focused. 
 - In a world of React, be an HTMX. Or a SolidJS, at least. Don't make your life more difficult than it needs to be. Complexity is the enemy.
