@@ -4,28 +4,35 @@ Welcome to my GitHub! I manage software engineering projects, and I have deep ro
 
 ---
 
-### 🚀 Tech Specialties
+### 🚀 Tech Hot Takes
 
-- **Favorite Languages:** Go > Node > Ruby > Python. Applied as it makes sense to the project.
-- **Other Language Thoughts:** Elixir and Lua are interesting. Java is not an appropriate modern choice for developing anything other than Android apps.
-- **Favorite Databases:** SQLite as default. Pocketbase for simple, realtime. Supabase or Postgres for full stack. KeyValue and Flatfiles where it makes sense.
-- **Web Development:** Scalable, maintainable, and user-focused; Bias towards simplicity; Server Rendered > HTMX > SolidJS > Svelte(Kit) > React. Apply complexity only as necessary.
-- **AI Pair Programmers:** Evolving! Gemini 3 Flash, Claude Code, and Nemotron 3 Nano (via LM Studio).
+- Go and Bun(/Deno/node..maybe) are the best modern programming languages. I'll work with Ruby or Python as needed. Lots of other interesting languages out there.
+- /Java/ should have been sunset a long, long time ago.
+- SQLite is the best database for most projects. Pocketbase is great for simple, realtime. If you really, **really** need a full power database, Supabase or Postgres. KeyValue and Flatfiles for super simple usecases.
+- Always, always bias towards modularity and simplicity. That'll keep things scalable, maintainable, and user-focused. 
+- In a world of React, be an HTMX. Or a SolidJS, at least. Don't make your life more difficult than it needs to be. Complexity is the enemy.
+- **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Right now I use a lot of Gemini 3 Flash and Sonnet for agentic coding with OpenCode.
 
 ---
 
 ### ⚡️ More About Me
 
-- **Crypto and Decentralization Enthusiast:** I follow Ethereum, Solana, and other blockchain projects, along with focusing on privacy conscious software.
-- **Radio Operator:** Licensed as N0ZSY (Novice at 8, General Class at 21), with a special interest in shortwave operation and Parks on the Air.
+- **Crypto and Decentralization Enthusiast:** I follow lots of blockchain projects
+- **Privacy advocate:** No, you really don't need all the data about everyone that you have. I strongly focus on privacy conscious, open source software.
+- **Radio Operator:** Licensed (Novice at 8, Technician at 12, General Class at 21), with primary interests in shortwave operation and Parks on the Air.
 - **Musician:** Singer and multi-instrumentalist (guitar, mandolin, bodhran), performing folk and indie music at local festivals for nearly a decade.
 - **Based in:** Minnesota, USA
 
 ---
 
-### 🎸🎲🐍  Fun facts: 
+### Open Source Stuff: 
 
-- Advocate for privacy-friendly and decentralized systems that empower an open user-centric web.
+#### Mine:
+- [loom](https://github.com/crueber/loom)
+- a [bunch of useful gists](https://gist.github.com/crueber)
+
+#### Contributor:
+- [cliamp](https://github.com/bjarneo/cliamp)
 
 ---
 
