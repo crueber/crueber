@@ -6,10 +6,10 @@ Howdy! By day I manage software engineers, and by night I do all kinds of things
 
 - Go and Bun/Deno/node are the best modern programming languages for general use cases. Ruby and Python can be useful in their niches. Lots of other interesting languages out there. One day I'll get around to messing with Elixir and Zig.. maybe.
 - Java should have been sunset a long, long time ago. Consider this my plea for you to stop using it.
-- SQLite is the best database for most projects. Pocketbase is great for simple, realtime. If you really, **really** need a full power database, Supabase or Postgres. KeyValue and Flatfiles for super simple usecases.
-- Always, always bias towards modularity and simplicity. That'll keep things scalable, maintainable, and user-focused. 
+- SQLite is the best database for most projects. Pocketbase is great for low-friction realtime. If you really, **really** need a full power database, Supabase or Postgres. Or Cockroach if you're serving many geographies. KeyValue and Flatfiles where it makes sense.
+- Always, always, always bias towards modularity and simplicity. That's how you maintain a scalable and extensible codebase.
 - In a world of React, be an HTMX. Or a SolidJS, at least. Don't make your life more difficult than it needs to be. Complexity is the enemy.
-- **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Right now I use a lot of Gemini 3 Flash and Sonnet for agentic coding with OpenCode.
+- **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
 
 ### ⚡️ More About Me
 
@@ -22,7 +22,7 @@ Howdy! By day I manage software engineers, and by night I do all kinds of things
 
 #### Mine:
 - [loom](https://github.com/crueber/loom) (go, solidjs, web, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
-- a [bunch of useful gists](https://gist.github.com/crueber)
+- a bunch of [useful gists](https://gist.github.com/crueber)
 
 #### Contributor:
 - [cliamp](https://github.com/bjarneo/cliamp) (go, tui) - Terminal Winamp (With Navidrome support!)
