@@ -1,4 +1,4 @@
-## 👨‍💻 Technology Leadership |  🔒 Privacy and 🌎 Remote Work Advocate
+### 💻 Coder, 👨‍💻 Manager, and 📣 Advocate (for 🔒 Privacy Rights and 🌎 Remote Work)
 
 Howdy! By day I manage software engineers, and by night I do all kinds of things. Most relevant here is that I'm getting in to open source contributions more, and writing a few of my own projects. My journey began when I was nine, tinkering with 8088's and gw-basic and turbo pascal. That passion just grew throughout my life, and while I only recently started doing more open source, I have a whole lot of code under my belt.
 
