@@ -21,11 +21,12 @@ Howdy! By day I manage software engineers, and by night I do all kinds of things
 ### My Open Source Stuff: 
 
 #### Mine:
-- [loom](https://github.com/crueber/loom) (go, solidjs, web, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
+- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
+- [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 - a bunch of [useful gists](https://gist.github.com/crueber)
 
 #### Contributor:
-- [cliamp](https://github.com/bjarneo/cliamp) (go, tui) - Terminal Winamp (With Navidrome support!)
+- [cliamp](https://github.com/bjarneo/cliamp) (tui, go) - Terminal Winamp (With Navidrome support!)
 
 ---
 
