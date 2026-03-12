@@ -23,7 +23,8 @@ Howdy! By day I manage software engineers, and by night I do all kinds of things
 #### Mine:
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
-- My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [useful gists](https://gist.github.com/crueber)
+
+My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
 #### Contributor:
 - [cliamp](https://github.com/bjarneo/cliamp) (tui, go) - Terminal Winamp (With Navidrome support!)
