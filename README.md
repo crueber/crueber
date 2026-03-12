@@ -1,4 +1,4 @@
-### 📂 My Open Source Stuff: 
+### 📂 Open Source Stuff: 
 
 #### Mine:
 
@@ -10,6 +10,8 @@ My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https:
 #### Contributor:
 
 - [cliamp](https://github.com/bjarneo/cliamp) (tui, go) - Terminal Winamp (With Navidrome support!)
+
+---
 
 ### 👨‍💻💻📣🔒🌎 Who am I?
 
