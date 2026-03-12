@@ -1,17 +1,25 @@
-### 💻 Coder, 👨‍💻 Manager, and 📣 Advocate (for 🔒 Privacy Rights and 🌎 Remote Work)
-
-Howdy! By day I manage software engineers, and by night I do all kinds of things. Most relevant here is that I'm getting in to open source contributions more, and writing a few of my own projects. My journey began when I was nine, tinkering with 8088's and gw-basic and turbo pascal. That passion just grew throughout my life, and while I only recently started doing more open source, I have a whole lot of code under my belt.
-
 ### 📂 My Open Source Stuff: 
 
 #### Mine:
+
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
 My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
 #### Contributor:
+
 - [cliamp](https://github.com/bjarneo/cliamp) (tui, go) - Terminal Winamp (With Navidrome support!)
+
+### 👨‍💻💻📣🔒🌎 Who am I?
+
+By day I manage software engineers, and by night I do lots of things. Here are the quick hits:
+
+- **Believer in Open Source Software:** When I say that, I mean free as in freedom, not free as in beer. Unlicense > MIT > Apache > GPL.
+- **Crypto and Decentralization Enthusiast:** I follow lots of blockchain projects, and think we need **way less** centralization of data and authority.
+- **Privacy advocate:** Privacy is a human right. For everyone. I focus on privacy conscious, open source software.
+- **Radio Operator:** Licensed, with primary interests in shortwave operation and Parks on the Air.
+- **Musician:** Singer and multi-instrumentalist (guitar, mandolin, bodhran), performing folk and indie music at renaissance festivals.
 
 ### 🔥 Tech Hot Takes Nobody Asked For!
 
@@ -21,13 +29,6 @@ My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https:
 - Always, always, always **bias towards modularity and simplicity.** That's how you maintain a scalable and extensible codebase.
 - In a world of React, be an HTMX. Or a SolidJS, at least. Don't make your life more difficult than it needs to be. **Complexity is the enemy.**
 - **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
-
-### 🙋‍♂️ More About Me
-
-- **Crypto and Decentralization Enthusiast:** I follow lots of blockchain projects, and think we need **way less** centralization of data and authority.
-- **Privacy advocate:** Privacy is a human right. For everyone. I focus on privacy conscious, open source software.
-- **Radio Operator:** Licensed, with primary interests in shortwave operation and Parks on the Air.
-- **Musician:** Singer and multi-instrumentalist (guitar, mandolin, bodhran), performing folk and indie music at renaissance festivals.
 
 ---
 
