@@ -3,6 +3,7 @@
 #### Mine:
 
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Self-hosted "home" page for links and notes. Take back your new tab.
+- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - OIDC for your home lab. Authentic and Keycloak are excessively heavy for no purpose. 25mb docker image, 6mb in memory.
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
 My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
