@@ -1,6 +1,4 @@
-### 📂 Open Source Stuff: 
-
-#### Mine:
+### 👨‍💻 Open Source: 
 
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Self-hosted "home" page for links and notes. Take back your new tab.
 - [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Authentic and Keycloak are excessively heavy for no purpose. 25mb docker image, 6mb in memory.
@@ -8,16 +6,14 @@
 - Homebrew [omawrite](https://github.com/crueber/homebrew-omawrite) - homebrew cask - Build OmaWrite on a Mac
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
-Contributions to the Omarchy Ecosystem: [rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), [cw-practice](https://github.com/crueber/omarchy-cw-practice), [hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
+Plugins for the Omarchy Ecosystem: [rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), [cw-practice](https://github.com/crueber/omarchy-cw-practice), [hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
 
-My [dotfiles](https://github.com/crueber/dotfiles), and [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
+Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
-#### Contributor:
+### 🤝 Open Source Contributions:
 
-- [cliamp](https://github.com/bjarneo/cliamp) (tui, go) - Terminal Winamp (With Navidrome support!)
-- Omarchy Plugins: [text-transform](https://github.com/crueber/omarchy-text-transform) (added OpenCode support)
-
----
+- I added Navidrome support to [cliamp](https://github.com/bjarneo/cliamp)
+- I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
 
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
