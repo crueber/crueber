@@ -5,7 +5,13 @@
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store. Inspired by walgit.
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
-Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: [hambands](https://github.com/crueber/omarchy-hambands), [rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), [cw-practice](https://github.com/crueber/omarchy-cw-practice), [hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
+Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
+[omacoin](https://github.com/crueber/omarchy-plugin-omacoin), 
+[hambands](https://github.com/crueber/omarchy-hambands), 
+[cw-practice](https://github.com/crueber/omarchy-cw-practice), 
+[rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), 
+[hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), 
+[compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
 
 Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
