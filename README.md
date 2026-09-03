@@ -3,7 +3,6 @@
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Self-hosted "home" page for links and notes. Take back your new tab.
 - [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Authentic and Keycloak are excessively heavy for no purpose. 25mb docker image, 6mb in memory.
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store. Inspired by walgit.
-- Homebrew [omawrite](https://github.com/crueber/homebrew-omawrite) - homebrew cask - Build OmaWrite on a Mac
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
 Plugins for the Omarchy Ecosystem: [rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), [cw-practice](https://github.com/crueber/omarchy-cw-practice), [hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
@@ -14,6 +13,8 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 
 - I added Navidrome support to [cliamp](https://github.com/bjarneo/cliamp)
 - I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
+- I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
+
 
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
