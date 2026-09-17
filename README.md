@@ -7,6 +7,7 @@
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 
 Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
+[glowing-island-bar](https://github.com/crueber/omarchy-glowing-island-bar), 
 [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), 
 [hambands](https://github.com/crueber/omarchy-hambands), 
 [cw-practice](https://github.com/crueber/omarchy-cw-practice), 
