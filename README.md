@@ -23,6 +23,10 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 - I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
 - I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
 
+### 🚀 Just for Fun:
+
+- [starship](https://github.com/crueber/starship) - Fly a little starship from Earth to the nearest stars, right in your browser.
+
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
 - **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
