@@ -25,7 +25,7 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 
 ### 🚀 Just for Fun:
 
-- [starship](https://github.com/crueber/starship) - Fly a little starship from Earth to the nearest stars, right in your browser.
+- [starship](https://github.com/crueber/starship) - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
 
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
