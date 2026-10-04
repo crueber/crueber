@@ -5,6 +5,8 @@
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
+- [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
+- [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for the US amateur radio exams (Technician, General, Extra). [hamplitude.net](https://hamplitude.net)
 
 Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
 [glowing-island-bar](https://github.com/crueber/omarchy-glowing-island-bar), 
@@ -22,11 +24,6 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 - I added Navidrome support to [cliamp](https://github.com/bjarneo/cliamp)
 - I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
 - I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
-
-### 🚀 Just for Fun:
-
-- [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
-- [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for the US amateur radio exams (Technician, General, Extra). [hamplitude.net](https://hamplitude.net)
 
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
