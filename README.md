@@ -25,7 +25,8 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 
 ### 🚀 Just for Fun:
 
-- [starship](https://github.com/crueber/starship) - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
+- [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
+- [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for the US amateur radio exams (Technician, General, Extra). [hamplitude.net](https://hamplitude.net)
 
 ### 🔥 Tech Hot Takes Nobody Asked For--
 
@@ -38,7 +39,7 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 - Always, always, always **bias towards simplicity.** That's how you maintain a scalable and extensible codebase.
 - **Complexity is the enemy.** In a world full of React, be an HTMX. Don't add to the complexity of the world. Don't make your life more difficult than it needs to be. 
 
-Me in emojis: ✝️👨‍💻💻🌎📡🎶🎸📖🔐🎧
+Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧
 
 ---
 
