@@ -6,7 +6,7 @@
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
 - [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
-- [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for the US amateur radio exams (Technician, General, Extra). [hamplitude.net](https://hamplitude.net)
+- [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for US amateur radio exams. [hamplitude.net](https://hamplitude.net)
 
 Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
 [glowing-island-bar](https://github.com/crueber/omarchy-glowing-island-bar), 
