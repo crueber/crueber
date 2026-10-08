@@ -25,18 +25,13 @@ Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](h
 - I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
 - I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
 
-### 🔥 Tech Hot Takes Nobody Asked For--
+### 🗯️ A few tech thoughts
 
-- Always, always, always **bias towards simplicity.** That's how you maintain a scalable and extensible codebase, particularly one written by an AI. **Complexity is the enemy.** Don't succumb to it.
-- **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
-- **Open Source is meant to be free as in freedom**, not free as in beer.
-- **Decentralize**. Never tie yourself to a particular provider. Centralization is a loss of control. Consider the number of AWS outages that have taken down half the internet if you need a sample.
+Simplify, Decentralize, and Open Source. Those are the name of the game.
 
-#### 🧨 Now for the part that'll really provoke certain people!
+**AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
 
-- **Do use:** Go, Bun, Rust, Elixir. HTMX, SolidJS, vanilla JS. SQLite, RocksDB, Postgres, CockroachDB, Cassandra, Clickhouse.
-- **Use if you must:** Node, React, Vue, MySQL, MongoDB.
-- **Don't Use:** Java, Perl, Cobol. Angular. All "big box" Databases. Consider this my plea for those to all be sunset.
+**My favored technologies:** Go, Bun, Rust, Elixir. HTMX, SolidJS, vanilla JS. SQLite, RocksDB, Postgres, CockroachDB, Cassandra, Clickhouse.
 
 Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧
 
