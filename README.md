@@ -9,6 +9,8 @@
 - [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for US amateur radio exams. [hamplitude.net](https://hamplitude.net)
 
 Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
+[opencode-usage](https://github.com/crueber/omarchy-plugin-opencode-usage), 
+[grok-usage](https://github.com/crueber/omarchy-plugin-grok-usage), 
 [glowing-island-bar](https://github.com/crueber/omarchy-glowing-island-bar), 
 [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), 
 [hambands](https://github.com/crueber/omarchy-hambands), 
