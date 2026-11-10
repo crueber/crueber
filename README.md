@@ -1,7 +1,8 @@
 ### 👨‍💻 Open Source: 
 
-- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Self-hosted "home" page for links and notes. Take back your new tab.
 - [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Authentic and Keycloak are excessively heavy for no purpose. 25mb docker image, 6mb in memory.
+- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Self-hosted "home" page for links, notes, and more. Take back your new tab.
+- [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - beta - Self-hosted kanban project management for humans and agents. 
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
