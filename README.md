@@ -10,7 +10,7 @@
 #### Stand alone apps
 
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
-- [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
+- [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen.
 
 #### Statically Hosted Apps
 
