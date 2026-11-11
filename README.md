@@ -1,15 +1,24 @@
-### 👨‍💻 Open Source: 
+### 👨‍💻 Open Source:
 
-- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Authentic and Keycloak are excessively heavy for no purpose. 25mb docker image, 6mb in memory.
-- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Self-hosted "home" page for links, notes, and more. Take back your new tab.
-- [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - beta - Self-hosted kanban project management for humans and agents. 
+#### Self-hosted and home-lab oriented
+
+- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
+- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
+- [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - beta - Kanban project management for humans and agents. 
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
+
+#### Stand alone apps
+
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen. Nothing more, nothing less.
+
+#### Statically Hosted Apps
+
 - [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
 - [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for US amateur radio exams. [hamplitude.net](https://hamplitude.net)
 
-Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem: 
+#### Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem
+
 [opencode-usage](https://github.com/crueber/omarchy-plugin-opencode-usage), 
 [openrouter-usage](https://github.com/crueber/omarchy-plugin-openrouter-usage), 
 [grok-usage](https://github.com/crueber/omarchy-plugin-grok-usage), 
@@ -21,13 +30,13 @@ Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem:
 [hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), 
 [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
 
-Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
-
 ### 🤝 Open Source Contributions:
 
 - I added Navidrome support to [cliamp](https://github.com/bjarneo/cliamp)
 - I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
 - I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
+- Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
+
 
 ### 🗯️ A few tech thoughts
 
