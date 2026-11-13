@@ -32,10 +32,10 @@
 
 ### 🤝 Open Source Contributions:
 
-- I added Navidrome support to [cliamp](https://github.com/bjarneo/cliamp)
-- I added OpenCode support to the [text-transform](https://github.com/crueber/omarchy-text-transform) plugin for Omarchy
-- I set up a Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
-- Miscellany: [dotfiles](https://github.com/crueber/dotfiles), [opencode-extras](https://github.com/crueber/opencode-extras), and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
+- Navidrome support for [cliamp](https://github.com/bjarneo/cliamp)
+- OpenCode support for [text-transform](https://github.com/crueber/omarchy-text-transform) Omarchy plugin
+- Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
+- Miscellany: [dotfiles](https://github.com/crueber/dotfiles) and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
 
 ### 🗯️ A few tech thoughts
