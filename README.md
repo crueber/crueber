@@ -2,10 +2,10 @@
 
 #### Self-hosted and home-lab oriented
 
-- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - beta - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
-- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - beta - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
-- [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - beta - Kanban project management for humans and agents. 
-- [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
+- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
+- [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
+- [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - Kanban project management for humans and agents. 
+- [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha, do not use - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
 
 #### Stand alone apps
 
