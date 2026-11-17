@@ -5,7 +5,7 @@
 - [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
 - [loom](https://github.com/crueber/loom) (web, go, solidjs, docker) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
 - [weave](https://github.com/crueber/weave) (web, go, htmx, docker) - Kanban project management for humans and agents.
-- [scriobh](https://github.com/crueber/scriobh) (docker/web, desktop, go, rust, htmx) - Privacy and AI enabled long-form novel/manuscript writing tool.
+- [scríobh](https://github.com/crueber/scriobh) (docker/web, desktop, go, rust, htmx) - Privacy and AI enabled long-form novel/manuscript writing tool.
 - [walhub](https://github.com/crueber/walhub) (web, go, solidjs, docker) - alpha, do not use - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
 
 #### Stand alone apps
