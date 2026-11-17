@@ -10,6 +10,7 @@
 
 #### Stand alone apps
 
+- [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) (desktop, mac, swift) - stable - It's like [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters) but for a Mac.
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen.
 
@@ -48,8 +49,10 @@ Simplify, Decentralize, and Open Source. Those are the name of the game.
 
 **My favored technologies:** Go, Bun, Rust, Elixir. HTMX, SolidJS, vanilla JS. SQLite, RocksDB, Postgres, CockroachDB, Cassandra, Clickhouse.
 
-Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧
+Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧 
 
 ---
 
 👋 Thanks dropping by! Feel free to connect if you share similar passions.
+
+[![Sponsor](https://img.shields.io/github/sponsors/crueber?label=Sponsor&logo=GitHub-Sponsors&color=ea4aaa)](https://github.com/sponsors/crueber)
