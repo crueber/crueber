@@ -20,9 +20,10 @@
 
 #### Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem
 
-[opencode-usage](https://github.com/crueber/omarchy-plugin-opencode-usage), 
+[agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters), 
+~~[opencode-usage](https://github.com/crueber/omarchy-plugin-opencode-usage), 
 [openrouter-usage](https://github.com/crueber/omarchy-plugin-openrouter-usage), 
-[grok-usage](https://github.com/crueber/omarchy-plugin-grok-usage), 
+[grok-usage](https://github.com/crueber/omarchy-plugin-grok-usage)~~, 
 [glowing-island-bar](https://github.com/crueber/omarchy-glowing-island-bar), 
 [omacoin](https://github.com/crueber/omarchy-plugin-omacoin), 
 [hambands](https://github.com/crueber/omarchy-hambands), 
