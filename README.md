@@ -18,7 +18,7 @@
 - [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
 - [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for US amateur radio exams. [hamplitude.net](https://hamplitude.net)
 
-#### Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem
+#### Plugins for the [Omarchy](https://plugins.omarchy.org/) Ecosystem (Ordered by Chronological Release Date)
 
 [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters), 
 ~~[opencode-usage](https://github.com/crueber/omarchy-plugin-opencode-usage), 
@@ -29,8 +29,8 @@
 [hambands](https://github.com/crueber/omarchy-hambands), 
 [cw-practice](https://github.com/crueber/omarchy-cw-practice), 
 [rpgdice](https://github.com/crueber/omarchy-plugin-rpgdice), 
-[hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), 
-[compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)
+~~[hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), 
+[compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)~~.
 
 ### 🤝 Open Source Contributions:
 
