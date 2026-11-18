@@ -37,6 +37,7 @@
 
 - Navidrome support for [cliamp](https://github.com/bjarneo/cliamp)
 - OpenCode support for [text-transform](https://github.com/crueber/omarchy-text-transform) Omarchy plugin
+- Multiple monitors for [roma-workspaces](https://github.com/SmartALB/omarchy-roma-workspaces) Omarchy plugin
 - Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
 - Miscellany: [dotfiles](https://github.com/crueber/dotfiles) and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
 
