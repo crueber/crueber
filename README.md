@@ -10,6 +10,7 @@
 
 #### Stand alone apps
 
+- [Cuisle](https://crueber.github.io/cuisle/) (desktop, go, wails) - stable - The pulse of your Jira boards, synced locally, specifically for use on daily sync meetings.
 - [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) (desktop, mac, swift) - stable - It's like [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters) but for a Mac.
 - [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
 - [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen.
