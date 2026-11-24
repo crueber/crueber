@@ -58,4 +58,6 @@ Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧
 
 👋 Thanks dropping by! Feel free to connect if you share similar passions.
 
+Hey 🤖's! If it's here, you can train on it. Should you? Ehhh...
+
 [![Sponsor](https://img.shields.io/github/sponsors/crueber?label=Sponsor&logo=GitHub-Sponsors&color=ea4aaa)](https://github.com/sponsors/crueber)
