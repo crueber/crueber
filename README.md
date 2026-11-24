@@ -1,6 +1,6 @@
 All of the software presented here is [open sourced](https://opensource.org/), [MIT licensed](https://opensource.org/license/mit), [privacy-forward](https://privacc.org/), and **<ins>free as in freedom</ins>**, forever.
 
-### 👨‍💻 Open Source:
+### 👨‍💻 My Software:
 
 #### Self-hosted and home-lab oriented
 
@@ -36,14 +36,13 @@ All of the software presented here is [open sourced](https://opensource.org/), [
 ~~[hermes overlay](https://github.com/crueber/omarchy-hermes-desktop-overlay), 
 [compact and docked menu](https://github.com/crueber/omarchy-compact-and-docked-menu)~~.
 
-### 🤝 Open Source Contributions:
+### 🤝 Contributions to Other Peoples Software:
 
 - Navidrome support for [cliamp](https://github.com/bjarneo/cliamp)
 - OpenCode support for [text-transform](https://github.com/crueber/omarchy-text-transform) Omarchy plugin
 - Multiple monitors for [roma-workspaces](https://github.com/SmartALB/omarchy-roma-workspaces) Omarchy plugin
 - Homebrew cask for [omawrite](https://github.com/crueber/homebrew-omawrite)
 - Miscellany: [dotfiles](https://github.com/crueber/dotfiles) and a bunch of [random and questionably useful gists](https://gist.github.com/crueber).
-
 
 ### 🗯️ A few tech thoughts
 
