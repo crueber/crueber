@@ -2,20 +2,38 @@ All of the software presented here is [open sourced](https://opensource.org/), [
 
 ### 👨‍💻 My Software:
 
-#### Self-hosted and home-lab oriented
+#### Self-hosted and home-lab oriented <img src="https://skillicons.dev/icons?i=docker" height="18" />
 
-- [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
-- [loom](https://github.com/crueber/loom) (web, go, vanilla js, docker) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
-- [weave](https://crueber.github.io/weave/) (web, go, htmx, docker) - Kanban project management for humans and agents.
-- [scríobh](https://crueber.github.io/scriobh/) (docker/web, desktop, go, rust, htmx) - Privacy and AI enabled long-form novel/manuscript writing tool.
-- [spindle](https://crueber.github.io/spindle/) (web, go, htmx, docker) - nearing beta - Object-oriented Git collaboration store (and action runner) inspired by [walgit](https://github.com/tobi/walgit), and the feature bar set by [github](https://github.com), [gitea](https://about.gitea.com/), [forgejo](https://forgejo.org).
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
+  [passage](https://github.com/crueber/passage) -
+  OIDC for your home lab. Password, Passkey, Magic Link. MFA.
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
+  [weave](https://crueber.github.io/weave/) -
+  Kanban project management for humans and agents.
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
+  [spindle](https://crueber.github.io/spindle/) - nearing beta -
+  Object-oriented Git collaboration store (and action runner) inspired by [walgit](https://github.com/tobi/walgit), and the feature bar set by [github](https://github.com), [gitea](https://about.gitea.com/), [forgejo](https://forgejo.org).
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=js" height="18" />
+  [loom](https://github.com/crueber/loom) -
+  Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=rust" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
+  [scríobh](https://crueber.github.io/scriobh/) -
+  Privacy and AI enabled long-form novel/manuscript writing tool.
 
 #### Stand alone apps
 
-- [Cuisle](https://crueber.github.io/cuisle/) (desktop, go, wails) - stable - The pulse of your Jira boards, synced locally, specifically for use on daily sync meetings.
-- [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) (desktop, mac, swift) - stable - It's like [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters) but for a Mac.
-- [coldstorage](https://github.com/crueber/coldstorage) (tui, go, git) - stable - terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
-- [android-brightness](https://github.com/crueber/android-brightness) (android, kotlin, widget) - stable - Just a minimal brightness widget for Android's home screen.
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> [Cuisle](https://crueber.github.io/cuisle/) -
+  The pulse of your Jira boards, synced locally, specifically for use on daily sync meetings.
+  <img src="https://skillicons.dev/icons?i=windows" height="18" /> <img src="https://skillicons.dev/icons?i=apple" height="18" /> <img src="https://skillicons.dev/icons?i=linux" height="18" />
+- <img src="https://skillicons.dev/icons?i=swift" height="18" /> [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) -
+  It's like [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters) but for a Mac. 
+  <img src="https://skillicons.dev/icons?i=apple" height="18" />
+- <img src="https://skillicons.dev/icons?i=go" height="18" /> [coldstorage](https://github.com/crueber/coldstorage) -
+  terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
+  <img src="https://skillicons.dev/icons?i=linux" height="18" />
+- <img src="https://skillicons.dev/icons?i=kotlin" height="18" /> [android-brightness](https://github.com/crueber/android-brightness) -
+  Just a minimal brightness widget for Android's home screen.
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="18" />
 
 #### Statically Hosted Apps
 
