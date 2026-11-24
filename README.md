@@ -1,6 +1,6 @@
-### 👨‍💻 Open Source:
+All of the software presented here is [open sourced](https://opensource.org/), [MIT licensed](https://opensource.org/license/mit), [privacy-forward](https://privacc.org/), and **<ins>free as in freedom</ins>**, forever.
 
-All of the software presented here is [open sourced](https://opensource.org/), [MIT licensed](https://opensource.org/license/mit), [privacy-forward](https://privacc.org/), and **<ins>free forever</ins>**.
+### 👨‍💻 Open Source:
 
 #### Self-hosted and home-lab oriented
 
