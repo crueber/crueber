@@ -2,40 +2,35 @@ All of the software presented here is [open sourced](https://opensource.org/), [
 
 ### 👨‍💻 My Software:
 
-#### Self-hosted and home-lab oriented <img src="https://skillicons.dev/icons?i=docker" height="18" />
+#### Self-hosted and home-lab oriented <img src="https://skillicons.dev/icons?i=docker,html,css,js" height="18" />
 
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
-  [passage](https://github.com/crueber/passage) -
+- [passage](https://github.com/crueber/passage) -
   OIDC for your home lab. Password, Passkey, Magic Link. MFA.
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
-  [weave](https://crueber.github.io/weave/) -
+- [weave](https://crueber.github.io/weave/) -
   Kanban project management for humans and agents.
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
-  [spindle](https://crueber.github.io/spindle/) - nearing beta -
+- [spindle](https://crueber.github.io/spindle/) - nearing beta -
   Object-oriented Git collaboration store (and action runner) inspired by [walgit](https://github.com/tobi/walgit), and the feature bar set by [github](https://github.com), [gitea](https://about.gitea.com/), [forgejo](https://forgejo.org).
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=js" height="18" />
-  [loom](https://github.com/crueber/loom) -
+- [loom](https://github.com/crueber/loom) -
   Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> <img src="https://skillicons.dev/icons?i=rust" height="18" /> <img src="https://skillicons.dev/icons?i=htmx" height="18" />
-  [scríobh](https://crueber.github.io/scriobh/) -
+- [scríobh](https://crueber.github.io/scriobh/) -
   Privacy and AI enabled long-form novel/manuscript writing tool.
 
-#### Stand alone apps
+#### Stand alone apps on <img src="https://skillicons.dev/icons?i=windows,apple,linux,androidstudio" height="18" />
 
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> [Cuisle](https://crueber.github.io/cuisle/) -
+- [Cuisle](https://crueber.github.io/cuisle/) -
   The pulse of your Jira boards, synced locally, specifically for use on daily sync meetings.
-  <img src="https://skillicons.dev/icons?i=windows" height="18" /> <img src="https://skillicons.dev/icons?i=apple" height="18" /> <img src="https://skillicons.dev/icons?i=linux" height="18" />
-- <img src="https://skillicons.dev/icons?i=swift" height="18" /> [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) -
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux" height="18" />
+- [The Agentic Apple](https://crueber.github.io/the-agentic-apple/) -
   It's like [agent-meters](https://github.com/crueber/omarchy-plugin-agent-meters) but for a Mac. 
   <img src="https://skillicons.dev/icons?i=apple" height="18" />
-- <img src="https://skillicons.dev/icons?i=go" height="18" /> [coldstorage](https://github.com/crueber/coldstorage) -
+- [coldstorage](https://github.com/crueber/coldstorage) -
   terminal dashboard for all your local git repositories; Inspired by [drydock](https://github.com/yetidevworks/drydock).
   <img src="https://skillicons.dev/icons?i=linux" height="18" />
-- <img src="https://skillicons.dev/icons?i=kotlin" height="18" /> [android-brightness](https://github.com/crueber/android-brightness) -
+- [android-brightness](https://github.com/crueber/android-brightness) -
   Just a minimal brightness widget for Android's home screen.
   <img src="https://skillicons.dev/icons?i=androidstudio" height="18" />
 
-#### Statically Hosted Apps
+#### Statically Hosted Apps <img src="https://skillicons.dev/icons?i=html,css,js" height="18" />
 
 - [starship](https://github.com/crueber/starship) 💫 - Fly a little starship from Earth to the nearest stars, [right in your browser](https://crueber.github.io/starship/).
 - [hamplitude](https://github.com/crueber/hamplitude) 📻 - Compendium and concept-first study site for US amateur radio exams. [hamplitude.net](https://hamplitude.net)
@@ -68,7 +63,7 @@ Simplify, Decentralize, and Open Source. Those are the name of the game.
 
 **AI is making a lot of language and framework choices superfluous**, and it's going to continue. Don't be scared of it, learn to live with it, and how to use it well. It isn't going anywhere.
 
-**My favored technologies:** Go, Bun, Rust, Elixir. HTMX, SolidJS, vanilla JS. SQLite, RocksDB, Postgres, CockroachDB, Cassandra, Clickhouse.
+**My favored technologies:**  <img src="https://skillicons.dev/icons?i=go,bun,rust,elixir,htmx,solidjs" height="18" /> // SQLite, RocksDB, Postgres, Flat Files.
 
 Me in emojis: ✝️👨‍💻💻🌎📻🎶🎸📖🔐🎧 
 
