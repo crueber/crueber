@@ -1,12 +1,14 @@
 ### 👨‍💻 Open Source:
 
+All of the software presented here is [open sourced](https://opensource.org/), [MIT licensed](https://opensource.org/license/mit), [privacy-forward](https://privacc.org/), and **<ins>free forever</ins>**.
+
 #### Self-hosted and home-lab oriented
 
 - [passage](https://github.com/crueber/passage) (web, go, oauth, htmx, docker) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
 - [loom](https://github.com/crueber/loom) (web, go, vanilla js, docker) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
 - [weave](https://crueber.github.io/weave/) (web, go, htmx, docker) - Kanban project management for humans and agents.
 - [scríobh](https://crueber.github.io/scriobh/) (docker/web, desktop, go, rust, htmx) - Privacy and AI enabled long-form novel/manuscript writing tool.
-- [spindle](https://crueber.github.io/spindle/) (web, go, htmx, docker) - nearing beta, do not use - Object storage based git store; Inspired by [walgit](https://github.com/tobi/walgit).
+- [spindle](https://crueber.github.io/spindle/) (web, go, htmx, docker) - nearing beta - Object-oriented Git collaboration store (and action runner) inspired by [walgit](https://github.com/tobi/walgit), and the feature bar set by [github](https://github.com), [gitea](https://about.gitea.com/), [forgejo](https://forgejo.org).
 
 #### Stand alone apps
 
