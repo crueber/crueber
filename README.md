@@ -4,7 +4,7 @@ All of the software presented here is [open sourced](https://opensource.org/), [
 
 #### Self-hosted and home-lab oriented
 
-- [passage](https://github.com/crueber/passage) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
+- [passage](https://crueber.github.io/passage/) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
 - [weave](https://crueber.github.io/weave/) - Kanban project management for humans and agents.
 - [spindle](https://crueber.github.io/spindle/) - nearing beta - Object-oriented Git collaboration store (and action runner) inspired by [walgit](https://github.com/tobi/walgit), and the feature bar set by [github](https://github.com), [gitea](https://about.gitea.com/), [forgejo](https://forgejo.org).
 - [loom](https://github.com/crueber/loom) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
