@@ -6,7 +6,7 @@ All of the software presented here is [open sourced](https://opensource.org/), [
 
 - [passage](https://crueber.github.io/passage/) - OIDC for your home lab. Password, Passkey, Magic Link. MFA.
 - [weave](https://crueber.github.io/weave/) - Project management for humans and agents. Inspired by [trello](https://trello.com/) and [planka](https://planka.app/).
-- [spindle](https://crueber.github.io/spindle/) - nearing beta - Object-oriented Git collaboration store (and action runner). Inspired by [walgit](https://github.com/tobi/walgit), [github](https://github.com), [gitea](https://about.gitea.com/), and [forgejo](https://forgejo.org).
+- [spindle](https://crueber.github.io/spindle/) - nearing beta - Object-store based Git collaboration. Inspired by [walgit](https://github.com/tobi/walgit), [github](https://github.com), [gitea](https://about.gitea.com/), and [forgejo](https://forgejo.org).
 - [loom](https://github.com/crueber/loom) - Your new self-hosted "home" page. Links, notes, and more. Take back your new tab.
 - [scríobh](https://crueber.github.io/scriobh/) - Privacy and AI enabled long-form novel/manuscript writing tool.
 
